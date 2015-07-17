@@ -1,0 +1,19 @@
+{
+  "name": "vinitlee-skeleton",
+  "version": "0.0.0",
+  "authors": [
+    "Vincent Lee <vinitlee@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
